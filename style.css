@@ -118,7 +118,9 @@ section {
     flex-direction: row;
     flex-wrap: wrap;
 }
-
+.cards {
+    background-color: #000016;
+}
 .card {
     background-color: rgb(110, 255, 238);
     width: 29.35em;
@@ -297,7 +299,9 @@ section {
      
     }
 }
-
+.container {
+    background-color: #000016;
+}
 * {
     margin: 0;
     padding: 0;
